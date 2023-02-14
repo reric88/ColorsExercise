@@ -1,0 +1,85 @@
+h1 {
+    color: red;
+    background-color: #ff0000;
+    text-shadow: 
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        1px 1px 0 white,
+        -1px 1px 0 white;
+}
+
+h2 {
+    color: #ffa500;
+    background-color: #ffa500;
+    text-shadow: 
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        1px 1px 0 white,
+        -1px 1px 0 white;
+}
+
+h3 {
+    color: #ff0;
+    background-color: #ffff00;
+    text-shadow: 
+        -1px -1px 0 black,
+        1px -1px 0 black,
+        1px 1px 0 black,
+        -1px 1px 0 black;
+}
+
+h4 {
+    color: #008000ee;
+    background-color: #008000;
+    text-shadow: 
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        1px 1px 0 white,
+        -1px 1px 0 white;
+}
+
+h5 {
+    color: #00fe;
+    background-color: #0000ff;
+    text-shadow: 
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        1px 1px 0 white,
+        -1px 1px 0 white;
+}
+
+h6 {
+    color: rgb(75, 0, 130);
+    background-color: #4b0082;
+    text-shadow: 
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        1px 1px 0 white,
+        -1px 1px 0 white;
+}
+
+p {
+    color: rgb(238, 130, 238, .9);
+    background-color: #ee82ee;
+    text-shadow: 
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        1px 1px 0 white,
+        -1px 1px 0 white;
+}
+
+#one {
+    color: hotpink;
+}
+
+#two {
+
+}
+
+#three {
+    background-color: peachpuff;
+}
+
+.liBorder {
+    border: 5px solid green;
+}
